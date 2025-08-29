@@ -27,7 +27,12 @@ The dashboard helps in identifying top-performing products, customer profitabili
      - **Line Chart** (Monthly Sales Trend)  
      - **Map Chart** (State-wise Sales & Profit)  
      - **RFM Analysis** (Frequency vs Monetary, Recency)  
-     - **Customer Profit Contribution & CLV%**  
+     - **Customer Profit Contribution & CLV%**
+    
+     <img width="1128" height="602" alt="image" src="https://github.com/user-attachments/assets/1792344b-2895-41db-ae70-ff19c94ecfb6" />
+     <img width="1132" height="611" alt="image" src="https://github.com/user-attachments/assets/8dd8ebf2-be60-4108-8748-45ab43fc7658" />
+
+
 
 ---
 
